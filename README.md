@@ -5,3 +5,4 @@
 #### Seccion 9 - GifsExpertApp
 
 - feat 1: inicio del proyecto
+- feat 2: tailwind & estilos
