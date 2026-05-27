@@ -3,3 +3,5 @@
 ## Branches
 
 #### Seccion 9 - GifsExpertApp
+
+- feat 1: inicio del proyecto
