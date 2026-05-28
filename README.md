@@ -7,3 +7,4 @@
 - feat 1: inicio del proyecto
 - feat 2: tailwind & estilos
 - feat 3: useState
+- feat 4: tipado estricto en useState
