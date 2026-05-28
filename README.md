@@ -10,3 +10,4 @@
 - feat 4: tipado estricto en useState
 - feat 5: useEffect
 - feat 6: recomendaciones useEffect
+- feat 7: customHook
