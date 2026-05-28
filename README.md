@@ -11,3 +11,4 @@
 - feat 5: useEffect
 - feat 6: recomendaciones useEffect
 - feat 7: customHook
+- feat 8: connectar varios customHooks
