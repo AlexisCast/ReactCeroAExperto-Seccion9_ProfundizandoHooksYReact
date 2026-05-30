@@ -13,3 +13,7 @@
 - feat 7: customHook
 - feat 8: connectar varios customHooks
 - feat 9: useRef
+
+#### Seccion 10 - useReducer
+
+- feat 10: setup shadcn/ui
