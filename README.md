@@ -17,3 +17,4 @@
 #### Seccion 10 - useReducer
 
 - feat 10: setup shadcn/ui
+- feat 11: lista de usuarios con useState
